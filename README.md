@@ -1,2 +1,1 @@
-# fatlip
-fatlip project
+HW № 1
